@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![galaxy](https://github.com/Cristhian-Noriega/Cristhian-Noriega/assets/113368548/9cf06b39-738f-439b-baec-9c80d1b8b681)
+
+
 <!--
 **Cristhian-Noriega/Cristhian-Noriega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
