@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-<div style="position: absolute; top: 0; right: 0;">
-  <img src="https://github.com/Cristhian-Noriega/Cristhian-Noriega/assets/113368548/9cf06b39-738f-439b-baec-9c80d1b8b681" alt="galaxy" width="600">
+<div align="center"">
+  <img src="https://github.com/Cristhian-Noriega/Cristhian-Noriega/assets/113368548/9cf06b39-738f-439b-baec-9c80d1b8b681" alt="galaxy" width="60%">
 </div>
+
+
 
 
 
